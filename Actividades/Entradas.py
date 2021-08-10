@@ -1,0 +1,5 @@
+number = input("digite un numero entero ")
+flotante = input("digite un numero flotante")
+booleano = input("digite un  booleano")
+char = input("digite una caracter ")
+cadena = input("digite una cadena de texto")
